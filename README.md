@@ -18,3 +18,5 @@ v1.05
 v1.07 - Corregido error 402: se valida el horario antes de agendar. Se restaura la lógica estable de v1.5
 v1.07
 
+v1.08 - Se agrega notificación por correo al paciente al confirmar la cita
+v1.08
