@@ -14,3 +14,8 @@ v1.04
 
 v1.05 - Se definen 2 perfiles: administrativo (mantenimientos) y médico/paciente (agenda)
 v1.05
+
+v1.06 - Error 402: el sistema permite agendar dos citas en el mismo horario para el mismo médico (doble reserva)
+v1.06
+
+
