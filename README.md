@@ -9,7 +9,7 @@ v1.02
 v1.03 - Se define mantenimiento de pacientes, médicos y especialidades médicas
 v1.03 
 
-
-
+v1.04 - Se define proceso de agendamiento y cancelación de citas medicas
+v1.04
 
 
