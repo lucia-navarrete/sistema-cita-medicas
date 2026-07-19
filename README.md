@@ -20,3 +20,6 @@ v1.07
 
 v1.08 - Se agrega notificación por correo al paciente al confirmar la cita
 v1.08
+
+v1.09 - Optimización en la consulta de horarios disponibles para mejorar el tiempo de respuesta
+v1.09
